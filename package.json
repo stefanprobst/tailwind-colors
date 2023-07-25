@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-colors",
+  "private": true,
+  "main": "index.mjs",
+  "scripts": {
+    "build": "node index.mjs"
+  },
+  "dependencies": {
+    "lodash.kebabcase": "^4.1.1",
+    "polished": "^4.2.2",
+    "tailwindcss": "^3.3.3"
+  }
+}
